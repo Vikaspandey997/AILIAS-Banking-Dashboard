@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-export default function AILIASDashboard() {
+export default function App() {
   const [employee, setEmployee] = useState("");
   const [department, setDepartment] = useState("Operations");
 
